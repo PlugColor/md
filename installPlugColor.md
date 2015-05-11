@@ -1,6 +1,10 @@
 PlugColor v1.1.5
-Copy the code (below) to your bookmarks, and run it while on 'plug.dj':
+================
 
+||
+|:----------------------------------------------------------------------------------------------:|
+
+Copy the code (below) to your bookmarks, and run it while on 'plug.dj':
 javascript:(function(){$.getScript('https://rawgit.com/PlugColor/JS/master/PlugColor.js');}());
 
 script is also available using Stylish: https://userstyles.org/styles/111217/plugcolor
