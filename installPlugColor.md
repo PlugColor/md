@@ -5,7 +5,7 @@
 |:-----------------------------------------------------------------------------------------------:|
 |**Copy the code (below) to your bookmarks, and run it while on 'plug.dj'**|
 |  |
-|javascript:(function(){$.getScript('https://rawgit.com/PlugColor/JS/master/PlugColor.js');}());|
+javascript:(function(){$.getScript('https://rawgit.com/PlugColor/JS/master/PlugColor.js');}());
 |  |
 |**This script is also available using Stylish, here: https://userstyles.org/styles/111217/plugcolor**|
 |  |
