@@ -1,12 +1,13 @@
 **PlugColor v1.1.5**
 =====================
 
-| |
+|  |
 |:---------------------------------------------------------------------------------------------------:|
-|Copy the code (below) to your bookmarks, and run it while on 'plug.dj'|
+|**Copy the code (below) to your bookmarks, and run it while on 'plug.dj'**|
+|  |
 |  javascript:(function(){$.getScript('https://rawgit.com/PlugColor/JS/master/PlugColor.js');}());  |
 |  |
-|Script is also available using Stylish: https://userstyles.org/styles/111217/plugcolor|
+|**Script is also available using Stylish: https://userstyles.org/styles/111217/plugcolor**|
 |  |
 |This program is free software: you can redistribute it and/or modify it under the terms|
 |of the GNU General Public License as published by the Free Software Foundation, either|
