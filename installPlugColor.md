@@ -9,7 +9,6 @@ javascript:(function(){$.getScript('https://rawgit.com/PlugColor/JS/master/PlugC
 
 |  |
 |:-----------------------------------------------------------------------------------------------:|
-|  |
 |**This script is also available using Stylish, here: https://userstyles.org/styles/111217/plugcolor**|
 |  |
 |  |
