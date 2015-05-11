@@ -7,10 +7,10 @@
 |  |
 |javascript:(function(){$.getScript('https://rawgit.com/PlugColor/JS/master/PlugColor.js');}());|
 |  |
-|**Script is also available using Stylish: https://userstyles.org/styles/111217/plugcolor**|
+|**This script is also available using Stylish, here: https://userstyles.org/styles/111217/plugcolor**|
 |  |
 |  |
-|  |
+
 |:-----------------------------------------------------------------------------------------------:|
 |This program is free software: you can redistribute it|
 |and/or modify it under the terms of the GNU General|
