@@ -4,7 +4,6 @@
 |  |
 |:-----------------------------------------------------------------------------------------------:|
 **Copy the code (below) to your bookmarks, and run it while on 'plug.dj'**
---------------------------------------------------------------------------
 |  |
 |javascript:(function(){$.getScript('https://rawgit.com/PlugColor/JS/master/PlugColor.js');}());|
 |  |
