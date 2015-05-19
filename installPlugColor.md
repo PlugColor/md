@@ -1,4 +1,4 @@
-**PlugColor v1.1.5**
+**PlugColor v1.1.6**
 =====================
 
 |  |
@@ -9,7 +9,7 @@ javascript:(function(){$.getScript('https://rawgit.com/PlugColor/JS/master/PlugC
 
 |  |
 |:-----------------------------------------------------------------------------------------------:|
-|**This script is also available using Stylish, here: https://userstyles.org/styles/111217/plugcolor**|
+|**This script is also available with Stylish. Here: https://userstyles.org/styles/111217/plugcolor**|
 |  |
 |  |
 
